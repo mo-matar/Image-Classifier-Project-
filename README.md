@@ -1,4 +1,4 @@
-# Image Classifier with Deep Learning
+# Udacity Machine Learning Nanodegree Program Project: Image Classifier with Deep Learning
 
 This project implements an image classifier using deep learning with TensorFlow. The classifier is trained on a flower dataset and converted into a command-line application that predicts the class of an input image.
 
@@ -74,7 +74,5 @@ $ python predict.py /path/to/image saved_model
 - Optimize the size of the saved checkpoint to ensure efficient storage and loading.
 - Refer to the rubric for detailed project requirements and grading criteria.
 
-## License
-This project is provided under the MIT License. Feel free to use, modify, and distribute as per the terms of the license.
 
 ---
