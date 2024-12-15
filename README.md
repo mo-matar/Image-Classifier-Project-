@@ -1,5 +1,4 @@
-# Udacity Machine Learning Nanodegree Program Project: Image Classifier with Deep Learning
-
+# Udacity Machine Learning Nanodegree Program Project: Create Your Own Image Classifier - TensorFlow
 This project implements an image classifier using deep learning with TensorFlow. The classifier is trained on a flower dataset and converted into a command-line application that predicts the class of an input image.
 
 ## Project Overview
